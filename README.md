@@ -13,7 +13,6 @@
 <a href="https://www.linkedin.com/in/prince-kumar98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-kumar98" height="30" width="40" /></a>
 <a href="https://www.facebook.com/prince.jaikar.3158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince.jaikar.3158" height="30" width="40" /></a>
 <a href="https://www.instagram.com/prince_jaikar_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_jaikar_/" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/18937261/prince-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince-kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
