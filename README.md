@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/princekumar75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princekumar75" height="30" width="40" /></a>
+<a href="https://twitter.com/Princes89729798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Princes89729798" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Prince Singh Rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prince Singh Rajput" height="30" width="40" /></a>
 <a href="https://fb.com/Prince Jaikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Prince Jaikar" height="30" width="40" /></a>
 <a href="https://instagram.com/_prince_jaikar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_jaikar" height="30" width="40" /></a>
