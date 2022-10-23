@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRINCE KUMAR</h1>
-<h3 align="center">I am currently pursuing MCA(MASTER OF COMPUTER APPLICATION)4rd Semester At Haldia institute of technology.</h3>
+<h3 align="center">I have done MCA(MASTER OF COMPUTER APPLICATION)4rd Semester At Haldia institute of technology.</h3>
 
 - 📫 How to reach me *princejaikar508258@gmail.com*
 
