@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRINCE KUMAR</h1>
 <h3 align="center">I have done MCA(MASTER OF COMPUTER APPLICATION) At Haldia institute of technology.</h3>
 
-- 📫 How to reach me *princejaikar508258@gmail.com*
+- 📫 How to reach me *princejaikar95@gmail.com*
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1n3ONXiGakd_pjusW-HFJHx_k-EVOOXrW/edit?usp=share_link&ouid=102383224591568651858&rtpof=true&sd=true)
 
